@@ -14,4 +14,4 @@ This web app was built with:
 * Chakra UI
 * Rapid API
 
-Click <a href="https://adtx.github.io/realtor_nextjs/" target="_blank">here</a> to try out the app for yourself.
+Click <a href="https://realtor-nextjs-tau.vercel.app/" target="_blank">here</a> to try out the app for yourself.
